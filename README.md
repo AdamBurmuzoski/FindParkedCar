@@ -4,6 +4,6 @@ Features:
 - Save Location: Save the location of your parked car using the "Save" button.
 - Map Types: Switch between standard and hybrid satellite map types.
 - Locate My Car: The app remembers your last known location, so you can find your parked car easily.
-Directions: Open the location in Apple Maps for driving directions to your saved car.
-Long Press to Add Pins: Add custom pins to the map by long-pressing on the map, and select them for quick access.
-Tactile Feedback: Provides haptic feedback when interacting with the app for a more immersive experience.
+- Directions: Open the location in Apple Maps for driving directions to your saved car.
+- Long Press to Add Pins: Add custom pins to the map by long-pressing on the map, and select them for quick access.
+- Tactile Feedback: Provides haptic feedback when interacting with the app for a more immersive experience.
