@@ -42,4 +42,8 @@
 3. Run the app on a simulator or a physical device.
 4. Use the "Save" button to store your car’s location and explore the map features.
 
+---
 
+## License
+
+© Adam Burmuzoski. All rights reserved.
